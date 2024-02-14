@@ -1,0 +1,1 @@
+html, body{margin:0;font-family:monospace;background-color:#000;color:#fff}body{min-height:100vh;display:flex;justify-content:center;align-items:center}h1{text-align:center}ul{padding:0;text-align:center;list-style:none}li{display:inline}a{text-decoration:none;color:inherit}li a:hover{background-color:#0f0;color:#000}.active{background-color:#0f0;color:#000}
